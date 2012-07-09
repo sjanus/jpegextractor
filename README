@@ -1,0 +1,13 @@
+DESCRIPTION
+===========
+
+Very simple script that extracts JPEG embedded in NEF files.
+
+Original concept - Greg Troxel (http://www.mail-archive.com/geeqie-devel@lists.sourceforge.net/msg00255.html).
+
+
+TODO
+====
+
+- elementary configuration/parametrization
+- ...
